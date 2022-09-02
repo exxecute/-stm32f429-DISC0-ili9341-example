@@ -1,0 +1,2 @@
+../Core/Src/fonts.c:952:7:Font_GetFont	16	static
+../Core/Src/fonts.c:968:9:Font_GetPage	16	static
